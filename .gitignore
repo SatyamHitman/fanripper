@@ -1,0 +1,3 @@
+# Release artifacts are published as GitHub Release assets, not committed.
+*.zip
+*.crx
