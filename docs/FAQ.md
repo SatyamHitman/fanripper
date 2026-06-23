@@ -29,7 +29,7 @@ Straight to your browser's normal Downloads folder, neatly named. They stay on
 your device by default — unless you turn on the optional Cloud add-on.
 
 ### What is the Cloud + Telegram add-on?
-An optional $4/month add-on. With it on, every download is also copied — straight
+An optional add-on. With it on, every download is also copied — straight
 from your browser — to your own private cloud locker (Mega or Gofile) and
 delivered to your own private Telegram channel. The extension even **creates the
 cloud accounts for you** and spins up fresh ones as you fill them, so space is
@@ -40,9 +40,9 @@ Yes. The Cloud add-on keeps an encrypted record of your lockers, so you can sign
 in on a new device and restore your whole backup library — links and all.
 
 ### How does billing work?
-Free covers unlimited standard downloads. Paid plans unlock protected video and
-bulk tools and bill in crypto (USDT, BTC, ETH) — no card, no KYC. Purchases
-happen inside the extension.
+Fanripper is free for everyday backups — unlimited photos and standard video. The
+optional Pro tools (DRM video, bulk, cloud) unlock from inside the extension —
+no card, no signup. Full pricing lives at fanripper.com.
 
 ### How do I get help?
 Join our [Telegram](https://t.me/fanripper) for live help, updates, and the

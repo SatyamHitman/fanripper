@@ -13,7 +13,7 @@
 
 ## Why Fanripper?
 
-Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often pulled from the store) or **paid but limited** (manual scrolling, stall on big files, no cloud). Fanripper does the lot — and costs less, with a pay-once lifetime option none of them offer.
+Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often pulled from the store) or **paid but limited** (manual scrolling, stall on big files, no cloud). Fanripper does the lot — and the **core is free**.
 
 - ✅ **DRM-protected PPV video — any size.** 4 GB+ files that crash every other tool save cleanly, full quality, no browser flags.
 - ✅ **Whole-profile auto-crawl.** One click grabs every post, all your paid PPV, and the Creator Vault — no scrolling to "load more".
@@ -39,8 +39,6 @@ Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often 
 | Restore on a new device | ✅ | ❌ | ❌ |
 | Runs 100% on your device | ✅ always | ⚠️ often "cloud" | ✅ usually |
 | Never asks your password | ✅ | ⚠️ varies | ⚠️ varies |
-| Pay **once** for life | ✅ $60 | ❌ subscription only | — |
-| Pay in crypto · no KYC | ✅ | ❌ card only | — |
 
 ## Install (about 60 seconds)
 
@@ -60,17 +58,11 @@ Works on **Chrome, Brave and Edge**. Once installed it **updates itself automati
 2. **Browse like you always do** — Fanripper quietly adds a save button to what you can see.
 3. **Click to keep it** — photos, videos and protected clips save to your computer in full quality, neatly named.
 
-## Pricing
+## Free to start
 
-| Plan | Price | What you get |
-|---|---|---|
-| **Free** | $0 forever | Unlimited photos & standard video, posts + DMs, both platforms |
-| **Basic** | $5 / mo | + DRM-protected PPV video (any size), PPV length, embedded metadata |
-| **Pro** | $8 / mo | + whole-profile auto-crawl, PPV + Vault, DM bulk, parallel engine |
-| **Lifetime** | $60 once | Everything in Pro, forever — no subscription, free upgrades for life |
-| **Cloud + Telegram** | $4 / mo add-on | Off-device backup to your own auto-created locker + Telegram delivery |
+Fanripper is **free to install** and **free for everyday backups** — unlimited photos and standard video, posts and DMs, on both OnlyFans and Fansly. No account, no card.
 
-All paid plans bill in **crypto** (USDT · BTC · ETH) — no card, no KYC. Prefer to prepay? **Unlimited is $30 for 6 months.**
+The power tools — DRM-protected video, whole-profile bulk, and cloud backup — are optional **Pro** upgrades you unlock from inside the extension whenever you want them. Full details at **[fanripper.com](https://fanripper.com)**.
 
 ## FAQ
 
