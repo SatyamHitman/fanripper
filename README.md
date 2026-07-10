@@ -2,7 +2,7 @@
 
 > **Back up everything you've already paid for.** Fanripper is a browser extension that saves the photos, videos and **DRM-protected** clips from the OnlyFans and Fansly creators you subscribe to — whole profiles, direct messages and the Vault — processed **entirely on your own device**. No password, nothing uploaded.
 
-![Version](https://img.shields.io/badge/version-0.1.37-FF5A5F)
+![Version](https://img.shields.io/badge/version-0.1.38-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
 ![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly-supported-2b2b2b)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
