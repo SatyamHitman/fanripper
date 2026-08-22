@@ -1,10 +1,10 @@
-# Fanripper — OnlyFans & Fansly Downloader (DRM video · bulk · cloud backup)
+# Fanripper — OnlyFans, Fansly & JustForFans Downloader (DRM video · bulk · cloud backup)
 
-> **Back up everything you've already paid for.** Fanripper is a browser extension that saves the photos, videos and **DRM-protected** clips from the OnlyFans and Fansly creators you subscribe to — whole profiles, direct messages and the Vault — processed **entirely on your own device**. No password, nothing uploaded.
+> **Back up everything you've already paid for.** Fanripper is a browser extension that saves the photos, videos and **DRM-protected** clips from the OnlyFans, Fansly and JustForFans creators you subscribe to — whole profiles, direct messages and the Vault — processed **entirely on your own device**. No password, nothing uploaded.
 
 ![Version](https://img.shields.io/badge/version-0.1.52-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
-![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly-supported-2b2b2b)
+![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans-supported-2b2b2b)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
 🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
@@ -17,7 +17,8 @@ Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often 
 
 - ✅ **DRM-protected PPV video — any size.** 4 GB+ files that crash every other tool save cleanly, full quality, no browser flags.
 - ✅ **Whole-profile auto-crawl.** One click grabs every post, all your paid PPV, and the Creator Vault — no scrolling to "load more".
-- ✅ **Posts, DMs and the Vault**, on both **OnlyFans and Fansly**.
+- ✅ **Posts, DMs and the Vault**, on **OnlyFans and Fansly**.
+- 🆕 **JustForFans, too.** OnlyFans, Fansly **and JustForFans** — every site in one place, full quality, on the new **Max** plan.
 - ✅ **See a PPV's real length before you buy** — never pay for a 10-second clip sold as an hour.
 - ✅ **Metadata baked into every file** — creator, caption, price and post date, searchable forever.
 - ✅ **Cloud backup + Telegram delivery** (optional add-on) — and the extension even **creates your Mega/Gofile accounts for you**.
@@ -30,7 +31,8 @@ Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often 
 | DRM-protected video, any size | ✅ 4 GB+ | ⚠️ stalls on large files | ❌ |
 | Whole-profile auto-crawl | ✅ posts · PPV · Vault | ❌ manual scroll only | ❌ timeline only |
 | Posts · DMs · Vault | ✅ all three | ⚠️ partial | ❌ feed only |
-| OnlyFans **and** Fansly | ✅ both | ⚠️ OnlyFans only | ❌ OnlyFans only |
+| OnlyFans, Fansly **& JustForFans** | ✅ all 3 sites | ⚠️ OnlyFans only | ❌ OnlyFans only |
+| JustForFans in full quality | ✅ (Max plan) | ❌ 720p or none | ❌ |
 | See a PPV's true length first | ✅ | ❌ | ❌ |
 | Metadata baked into files | ✅ | ❌ | ❌ |
 | Cloud backup to your own locker | ✅ unlimited | ❌ | ❌ |
@@ -46,7 +48,7 @@ Most OnlyFans downloaders are either **free but basic** (no DRM, no bulk, often 
 2. Unzip it somewhere permanent.
 3. Open `chrome://extensions` and turn on **Developer mode** (top-right).
 4. Click **Load unpacked** and select the unzipped folder.
-5. Open OnlyFans or Fansly — a **save** button appears on the content you can already see.
+5. Open OnlyFans, Fansly or JustForFans — a **save** button appears on the content you can already see.
 
 Works on **Chrome, Brave and Edge**. Once installed it **updates itself automatically**. Full guide: [docs/INSTALL.md](docs/INSTALL.md).
 
@@ -62,7 +64,7 @@ Works on **Chrome, Brave and Edge**. Once installed it **updates itself automati
 
 Fanripper is **free to install** and **free for everyday backups** — unlimited photos and standard video, posts and DMs, on both OnlyFans and Fansly. No account, no card.
 
-The power tools — DRM-protected video, whole-profile bulk, and cloud backup — are optional **Pro** upgrades you unlock from inside the extension whenever you want them. Full details at **[fanripper.com](https://fanripper.com)**.
+The power tools are optional upgrades you unlock from inside the extension whenever you want them: **DRM-protected video**, **whole-profile bulk** + the Vault, **cloud backup**, and — on the **Max** plan — **JustForFans** alongside OnlyFans and Fansly, every site in one place. Full details at **[fanripper.com](https://fanripper.com)**.
 
 ## FAQ
 
@@ -71,6 +73,7 @@ See [**docs/FAQ.md**](docs/FAQ.md) for the full list. The short version:
 - **Is it safe?** Yes — it runs entirely in your browser, never asks for your password, and stores nothing on a server.
 - **Will it get my account banned?** It saves the posts and messages you're already viewing, at normal human speed, on your own device — to the site it looks like ordinary browsing.
 - **Does it handle big videos?** Yes — multi-gigabyte (4 GB+) DRM videos that stall other tools save cleanly.
+- **Which sites are supported?** OnlyFans and Fansly out of the box; **JustForFans** on the Max plan — posts, photos, DMs and PPV, in full quality.
 - **Where do downloads go?** Your normal Downloads folder. They stay on your device unless you turn on the optional Cloud add-on.
 
 ## Links
@@ -85,4 +88,4 @@ Proprietary — **licensed, not sold.** See [LICENSE](LICENSE).
 
 ## Disclaimer
 
-Fanripper is a personal backup utility for content you have **lawful, paid access to**. It is **not affiliated with, endorsed by, or connected to** OnlyFans, Fansly, or any content platform. No paywall is bypassed. You are responsible for complying with each platform's terms of service and your local law.
+Fanripper is a personal backup utility for content you have **lawful, paid access to**. It is **not affiliated with, endorsed by, or connected to** OnlyFans, Fansly, JustForFans, or any content platform. No paywall is bypassed. You are responsible for complying with each platform's terms of service and your local law.
