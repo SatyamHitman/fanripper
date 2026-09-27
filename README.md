@@ -2,7 +2,7 @@
 
 > **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans** and **privacy.com.br** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
 
-![Version](https://img.shields.io/badge/version-0.1.56-FF5A5F)
+![Version](https://img.shields.io/badge/version-0.1.57-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
 ![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br-supported-2b2b2b)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F65-3fb950)
