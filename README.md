@@ -1,14 +1,15 @@
-# Fanripper — OnlyFans, Fansly, JustForFans & privacy.com.br Downloader (Chrome Extension)
+# Fanripper — OnlyFans, Fansly, JustForFans & privacy.com.br Downloader (Chrome Extension + iPhone & Android App)
 
-> **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans** and **privacy.com.br** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
+> **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** — and an **app for iPhone & Android** — that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans** and **privacy.com.br** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
 
 ![Version](https://img.shields.io/badge/version-0.1.57-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
+![Phones](https://img.shields.io/badge/iPhone%20·%20Android-app-2b2b2b)
 ![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br-supported-2b2b2b)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F65-3fb950)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
-🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📊 **[Compare all four sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
+🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 📊 **[Compare all four sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
 ---
 
@@ -59,7 +60,17 @@ Most downloaders are either **free but basic** (no DRM, no bulk, often pulled fr
 | Runs 100% on your device | ✅ always | ⚠️ often "cloud" | ✅ usually |
 | Never asks your password | ✅ | ⚠️ varies | ⚠️ varies |
 
-## Install (about 60 seconds)
+## On your phone (iPhone & Android)
+
+Fanripper also runs as an app on your phone. Save posts, videos and DMs from OnlyFans, Fansly, JustForFans and privacy.com.br straight to your iPhone or Android — protected (DRM) videos included, decrypted on the phone itself.
+
+1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
+2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
+3. Sign in with your Fanripper email: same account and plan as the extension.
+
+Your phone gets its own device slot, so it never signs out your computer. Downloads run while the app is open, and updates arrive on their own. Step-by-step guides: [iPhone](https://fanripper.com/blog/onlyfans-downloader-mac-iphone) · [Android](https://fanripper.com/blog/download-onlyfans-videos-android).
+
+## Install the extension (about 60 seconds)
 
 1. Download the latest **`fanripper.zip`** from [**Releases**](../../releases) (or [install.fanripper.com](https://install.fanripper.com)).
 2. Unzip it somewhere permanent.
