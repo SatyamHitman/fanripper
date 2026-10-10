@@ -6,18 +6,21 @@ asks for your password. Your content and login session stay on your device:
 there's no server storing your media and no account for anyone to breach.
 
 ### Will it get my account banned?
-Fanripper doesn't scrape or hammer the platform. It saves the posts and messages
-you're already looking at, at normal human speed, entirely on your own device.
-To the site, it looks identical to you browsing normally.
+Fanripper doesn't hammer the platform. It saves the posts and messages you can
+already open, with requests paced like ordinary browsing, on your own device. No
+tool that talks to a site it doesn't control can promise an outcome, so we
+won't — pacing is why it behaves like a normal session.
 
-### Do I have to give you my OnlyFans login?
+### Do I have to give you my OnlyFans (or Fansly, Fanfix…) login?
 Never. Fanripper works through the session you're already logged into in your own
 browser. We never see, store, or ask for your platform credentials.
 
 ### What can I download?
-Photos, standard videos, and DRM-protected videos — from both posts and direct
-messages, on OnlyFans and Fansly. Pro adds whole-post and whole-profile bulk,
-including the Creator Vault.
+Photos, standard videos and DRM-protected videos — from posts and direct
+messages — on OnlyFans, Fansly, JustForFans, privacy.com.br and Fanfix. Pro adds
+whole-profile bulk (including the OnlyFans Creator Vault); JustForFans,
+privacy.com.br and Fanfix come with Max or Lifetime. The per-site details are at
+[fanripper.com/supported-sites](https://fanripper.com/supported-sites).
 
 ### Does it choke on big videos?
 No — this is where Fanripper pulls ahead. Other tools stall or fail past ~2 GB,

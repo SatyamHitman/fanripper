@@ -1,7 +1,7 @@
 # Installing Fanripper
 
-Fanripper is a browser extension you load **once** in developer mode. After that
-it updates itself automatically. Works on **Chrome, Brave and Edge**.
+Fanripper is a browser extension you load **once** in developer mode. Works on
+**Chrome, Brave and Edge**.
 
 ## Steps (~60 seconds)
 
@@ -12,17 +12,19 @@ it updates itself automatically. Works on **Chrome, Brave and Edge**.
 3. Open **`chrome://extensions`** (or `brave://extensions`, `edge://extensions`).
 4. Turn on **Developer mode** — the toggle in the top-right.
 5. Click **Load unpacked** and select the **unzipped folder** (not the `.zip`).
-6. Open OnlyFans or Fansly and refresh. A **save** button appears on the content
-   you can already see.
+6. Open OnlyFans, Fansly, JustForFans, privacy.com.br or Fanfix and refresh. A
+   **save** button appears on the content you can already see.
 
 ## Updating
 
-Once installed, Fanripper checks for new versions and updates itself from our
-server — you don't need to reinstall.
+A load-unpacked install can't update itself, so Fanripper **tells you** when a
+new version ships. Download the new zip, extract it over the same folder and
+click **Reload** on `chrome://extensions` — about 15 seconds, and your settings
+and login are kept.
 
 ## Troubleshooting
 
-- **No save button?** Make sure you're logged into OnlyFans/Fansly and refresh
+- **No save button?** Make sure you're logged into the site and refresh
   the page. Disable any other downloader extensions that might conflict, then
   reload.
 - **"Manifest" / load error?** Make sure you selected the unzipped *folder*, not
@@ -34,5 +36,5 @@ server — you don't need to reinstall.
 ## Why isn't it on the Chrome Web Store?
 
 Stores remove extensions that interact with subscription-content platforms.
-Fanripper ships as a signed build you load once in developer mode; it then
-auto-updates from our server.
+Fanripper ships as a signed build you load once in developer mode, and tells
+you when a new version is out.
