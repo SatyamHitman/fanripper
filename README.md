@@ -34,8 +34,8 @@ HLS-AES-128 encrypted video decrypted locally at **the post's top rendition — 
 *Limits:* no chat bulk crawl, no stories, no Vault. Requires Max or Lifetime.
 
 ### [Fanfix downloader](https://fanripper.com/fanfix-downloader)
-**New in 0.1.59.** A save button on the photos and videos you can already open — in posts, chats, the chat Gallery, your purchases Gallery and livestream replays. Videos save at the quality Fanfix stores, with sound and never re-encoded; DRM-protected deliveries are handled on your device. Photos keep their real format (Fanfix often stores WebP behind a .jpg name). Bulk: a whole creator (All / Free / Purchased), a whole chat, your Gallery or all your subscriptions — paced, resumable, already-saved files skipped, and a count of what is still locked.
-*Limits:* browser extension only for now (not in the phone app yet). No comments, no live streams while they are live (replays work), and locked posts are left alone — unlock them on Fanfix first. Requires Max or Lifetime.
+**New in 0.1.59 — in the extension and the phone app.** A save button on the photos and videos you can already open — in posts, chats, the chat Gallery, your purchases Gallery and livestream replays. Videos save at the quality Fanfix stores, with sound and never re-encoded; DRM-protected deliveries are handled on your device. Photos keep their real format (Fanfix often stores WebP behind a .jpg name). Bulk: a whole creator (All / Free / Purchased), a whole chat, your Gallery or all your subscriptions — paced, resumable, already-saved files skipped, and a count of what is still locked.
+*Limits:* no comments, no live streams while they are live (replays work), and locked posts are left alone — unlock them on Fanfix first. In the phone app, a video Fanfix sends only in protected (DRM) form can't be saved yet. Requires Max or Lifetime.
 
 ## Why Fanripper?
 
@@ -66,7 +66,7 @@ Most downloaders are either **free but basic** (no DRM, no bulk, often pulled fr
 
 ## On your phone (iPhone & Android)
 
-Fanripper also runs as an app on your phone. Save posts, videos and DMs from OnlyFans, Fansly, JustForFans and privacy.com.br straight to your iPhone or Android — protected (DRM) videos included, decrypted on the phone itself. (Fanfix is in the browser extension only for now.)
+Fanripper also runs as an app on your phone. Save posts, videos and DMs from OnlyFans, Fansly, JustForFans, privacy.com.br and Fanfix straight to your iPhone or Android — protected (DRM) videos included, decrypted on the phone itself.
 
 1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
 2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
