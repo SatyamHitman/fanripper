@@ -101,7 +101,7 @@ Free to install, and **free for everyday backups** — unlimited photos and stan
 | **Max** | $15/mo | **JustForFans, privacy.com.br + Fanfix**, every new site we add · 2 devices |
 | **Lifetime** | $99 once | Every Max feature, permanently · 1 device |
 
-Cloud backup + Telegram delivery is a separate **$4/month add-on** that works on any plan, including Free. Paid plans are bought inside the extension and billed in crypto — no card, no KYC.
+Cloud backup + Telegram delivery is a separate **$4/month add-on** that works on any plan, including Free. Paid plans are bought inside the extension: crypto (USDT, BTC, ETH, USDC), card, Apple Pay or Google Pay through Telegram Stars, or a gift card — no KYC, nothing renews by itself.
 
 ## FAQ
 
