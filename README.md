@@ -6,7 +6,7 @@
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
 ![Phones](https://img.shields.io/badge/iPhone%20·%20Android-app-2b2b2b)
 ![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br%20·%20Fanfix-supported-2b2b2b)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F65-3fb950)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F63-3fb950)](https://www.virustotal.com/gui/file/dd8e3884eebc4052beaf212a09dc09cb324d5b74ac10c71199c3703543b97266/detection)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
 🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 📊 **[Compare all five sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
@@ -86,7 +86,7 @@ Works on **Chrome, Brave and Edge**.
 
 **Updating:** a load-unpacked install cannot update itself, so Fanripper **tells you** when a new version ships. Download the new zip, extract it over the same folder, and click **Reload** on `chrome://extensions` — about 15 seconds, and your settings and login are kept.
 
-> **Why not the Chrome Web Store?** Stores remove extensions that interact with subscription-content platforms, so Fanripper ships as a signed build you load once in developer mode. Every release is scanned — the current build is flagged by **0 of 65** engines on VirusTotal.
+> **Why not the Chrome Web Store?** Stores remove extensions that interact with subscription-content platforms, so Fanripper ships as a signed build you load once in developer mode. Every release is scanned — the current build is flagged by **0 of 63** engines on [VirusTotal](https://www.virustotal.com/gui/file/dd8e3884eebc4052beaf212a09dc09cb324d5b74ac10c71199c3703543b97266/detection).
 
 ## Plans
 
@@ -107,7 +107,7 @@ Cloud backup + Telegram delivery is a separate **$4/month add-on** that works on
 
 See [**docs/FAQ.md**](docs/FAQ.md) for the full list.
 
-- **Is it safe?** It runs entirely in your browser, never asks for your password, and stores no media on a server. The build is VirusTotal-scanned at 0/65.
+- **Is it safe?** It runs entirely in your browser, never asks for your password, and stores no media on a server. The build is VirusTotal-scanned at 0/63.
 - **Will it get my account banned?** It saves posts and messages you are already viewing, paced like ordinary browsing, on your own device. No tool that talks to a site it does not control can promise you an outcome, so we won't — but human-paced requests are why it behaves like a normal session.
 - **Does it handle big videos?** Yes — multi-gigabyte DRM video that stalls other tools completes here.
 - **Which sites?** OnlyFans and Fansly on any plan; **JustForFans, privacy.com.br and Fanfix** on Max or Lifetime.
