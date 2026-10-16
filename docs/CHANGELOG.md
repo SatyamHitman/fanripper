@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.1.61
+- **Less room for long videos** — protected videos need about a third less
+  space in Chrome while they download, and temporary files are cleared after
+  every download.
+- **Chrome storage limits explained** — if Chrome's "delete site data when you
+  close all windows" setting limits Fanripper, the message says so and opens
+  the setting. "Clear temporary files" frees space in one press, and a backup
+  waits instead of failing when Chrome is full.
+- **Faster Fanfix** — Gallery videos start sooner; a video Fanfix has no file
+  for says so instead of asking you to retry.
+- **JustForFans in the phone app** — Save buttons on posts, and a photo post
+  saves every photo.
+
+## 0.1.60
+- **Saved stays Saved** — a finished download keeps saying "Saved", and a file
+  you saved before tells you so.
+- **Video length on the button** — tell a short preview from the full video.
+- **Voice notes in OnlyFans DMs** get a Save button.
+- **Paid messages** saved from the chat go in the Paid folder.
+- **Fanfix** downloads stop when you switch accounts; incognito downloads and
+  cloud backups stay separate from normal windows.
+
 ## 0.1.59
 - **Fanfix support** (Max and Lifetime) — a save button on photos and videos in
   posts, chats, the Gallery and replays, plus whole-creator, chat
