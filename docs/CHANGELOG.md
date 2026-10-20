@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.62
+- **Every Save in a DM, at once** — a message with many photos and videos shows
+  a Save for each video and Download all straight away, no swiping.
+- **Voice notes** between photos in a chat get their own Save again.
+- **JustForFans** — a post that had lost its Save button gets it back.
+- **Phone app** — a download that isn't the real file is caught and offered
+  again; copying to your chosen folder goes one file at a time and a failed
+  copy shows Try again.
+
 ## 0.1.61
 - **Less room for long videos** — protected videos need about a third less
   space in Chrome while they download, and temporary files are cleared after
