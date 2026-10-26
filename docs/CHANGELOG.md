@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.1.64
+- **Fanfix photos save again** — paid photos and sets save every photo, not
+  just the preview, and the whole-profile scan of your subscriptions works
+  again.
+- **privacy.com.br** — videos sent as a single file now save.
+- **Gift cards** — the popup shows whether your gift card was accepted, and
+  why, if not.
+- **Phone app** — Fanfix videos and photos save again, and JustForFans videos
+  save from "On this page".
+
+## 0.1.63
+- **JustForFans backups work again** — Whole profile and purchased-media
+  backups save every post; purchased photo galleries save every photo, and
+  photo posts save every slide.
+- **Activity, live** — each file of a running backup shows as it saves.
+- **Halloween** — a candlelit night look for the popup, panel and Save buttons;
+  switch it off in Settings → Appearance.
+- **Phone app** — JustForFans protected videos save on iPhone and iPad, with a
+  quality picker.
+
 ## 0.1.62
 - **Every Save in a DM, at once** — a message with many photos and videos shows
   a Save for each video and Download all straight away, no swiping.

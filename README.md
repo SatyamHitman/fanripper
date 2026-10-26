@@ -2,11 +2,11 @@
 
 > **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** — and an **app for iPhone & Android** — that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans**, **privacy.com.br** and **Fanfix** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
 
-![Version](https://img.shields.io/badge/version-0.1.63-FF5A5F)
+![Version](https://img.shields.io/badge/version-0.1.64-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
 ![Phones](https://img.shields.io/badge/iPhone%20·%20Android-app-2b2b2b)
 ![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br%20·%20Fanfix-supported-2b2b2b)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F64-3fb950)](https://www.virustotal.com/gui/file/0fece524120ba5295d37fd2e333ffd8e87f171ee8aeeee56ee4cdb47c08f7865/detection)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F64-3fb950)](https://www.virustotal.com/gui/file/412e2f16793cdad025b7142b932f0cfbc21367b83e1cb94dc40ac1ae86702dac/detection)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
 🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 📊 **[Compare all five sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
@@ -86,7 +86,7 @@ Works on **Chrome, Brave and Edge**.
 
 **Updating:** a load-unpacked install cannot update itself, so Fanripper **tells you** when a new version ships. Download the new zip, extract it over the same folder, and click **Reload** on `chrome://extensions` — about 15 seconds, and your settings and login are kept.
 
-> **Why not the Chrome Web Store?** Stores remove extensions that interact with subscription-content platforms, so Fanripper ships as a signed build you load once in developer mode. Every release is scanned — the current build is flagged by **0 of 64** engines on [VirusTotal](https://www.virustotal.com/gui/file/0fece524120ba5295d37fd2e333ffd8e87f171ee8aeeee56ee4cdb47c08f7865/detection).
+> **Why not the Chrome Web Store?** Stores remove extensions that interact with subscription-content platforms, so Fanripper ships as a signed build you load once in developer mode. Every release is scanned — the current build is flagged by **0 of 64** engines on [VirusTotal](https://www.virustotal.com/gui/file/412e2f16793cdad025b7142b932f0cfbc21367b83e1cb94dc40ac1ae86702dac/detection).
 
 ## Plans
 
