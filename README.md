@@ -1,15 +1,15 @@
-# Fanripper — OnlyFans, Fansly, JustForFans, privacy.com.br & Fanfix Downloader (Chrome Extension + iPhone & Android App)
+# Fanripper — OnlyFans, Fansly, JustForFans, privacy.com.br, Fanfix & Patreon Downloader (Chrome Extension + iPhone & Android App)
 
-> **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** — and an **app for iPhone & Android** — that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans**, **privacy.com.br** and **Fanfix** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
+> **Back up everything you've already paid for.** Fanripper is a browser extension for **Chrome, Brave and Edge** — and an **app for iPhone & Android** — that saves photos, videos, DM media and **DRM-protected / encrypted** clips from the **OnlyFans**, **Fansly**, **JustForFans**, **privacy.com.br**, **Fanfix** and **Patreon** creators you subscribe to — whole profiles, direct messages and the Vault — decrypted and processed **entirely on your own device**. No password, no media uploaded.
 
 ![Version](https://img.shields.io/badge/version-0.1.67-FF5A5F)
 ![Browsers](https://img.shields.io/badge/Chrome%20·%20Brave%20·%20Edge-supported-2b2b2b)
 ![Phones](https://img.shields.io/badge/iPhone%20·%20Android-app-2b2b2b)
-![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br%20·%20Fanfix-supported-2b2b2b)
+![Platforms](https://img.shields.io/badge/OnlyFans%20·%20Fansly%20·%20JustForFans%20·%20privacy.com.br%20·%20Fanfix%20·%20Patreon-supported-2b2b2b)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F64-3fb950)](https://www.virustotal.com/gui/file/412e2f16793cdad025b7142b932f0cfbc21367b83e1cb94dc40ac1ae86702dac/detection)
 ![License](https://img.shields.io/badge/license-proprietary-lightgrey)
 
-🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 📊 **[Compare all five sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
+🌐 **[fanripper.com](https://fanripper.com)** &nbsp;·&nbsp; ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 📊 **[Compare all six sites](https://fanripper.com/supported-sites)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
 ---
 
@@ -37,6 +37,10 @@ HLS-AES-128 encrypted video decrypted locally at **the post's top rendition — 
 **New in 0.1.59 — in the extension and the phone app.** A save button on the photos and videos you can already open — in posts, chats, the chat Gallery, your purchases Gallery and livestream replays. Videos save at the quality Fanfix stores, with sound and never re-encoded; DRM-protected deliveries are handled on your device. Photos keep their real format (Fanfix often stores WebP behind a .jpg name). Bulk: a whole creator (All / Free / Purchased), a whole chat, your Gallery or all your subscriptions — paced, resumable, already-saved files skipped, and a count of what is still locked.
 *Limits:* no comments, no live streams while they are live (replays work), and locked posts are left alone — unlock them on Fanfix first. Requires Max or Lifetime.
 
+### [Patreon downloader](https://fanripper.com/patreon-downloader)
+**New in 0.1.67 — in the extension and the phone app.** A save button on the posts you already have access to — creator videos come down at the top rendition (no re-encode), photo sets and audio save as the original files, and the media in the group chats you're a member of saves with a click too. Bulk: point it at a creator you support and "Back up this creator" pages through their whole feed for you — paced, resumable, already-saved files skipped. Sign in to Patreon as usual; a save button appears on whatever your membership can already see.
+*Limits:* members-only posts you haven't unlocked are left alone, and the per-chat capture reads the media your account can see. Requires Max or Lifetime.
+
 ## Why Fanripper?
 
 Most downloaders are either **free but basic** (no DRM, no bulk, often pulled from the store) or **paid but limited** (manual scrolling, stall on big files, capped resolution).
@@ -56,9 +60,10 @@ Most downloaders are either **free but basic** (no DRM, no bulk, often pulled fr
 | DRM / encrypted video, any size | ✅ no size limit | ⚠️ stalls on large files | ❌ |
 | Whole-profile auto-crawl | ✅ posts · PPV · Vault | ❌ manual scroll only | ❌ timeline only |
 | Posts · DMs · Vault | ✅ | ⚠️ partial | ❌ feed only |
-| Sites covered | ✅ **5** | ⚠️ usually 1 | ❌ 1 |
+| Sites covered | ✅ **6** | ⚠️ usually 1 | ❌ 1 |
 | JustForFans at full quality | ✅ no 720p cap | ❌ 720p or none | ❌ |
 | privacy.com.br | ✅ | ❌ | ❌ |
+| Patreon (video · photos · chat) | ✅ | ❌ | ❌ |
 | See a PPV's true length first | ✅ | ❌ | ❌ |
 | Metadata baked into files | ✅ | ❌ | ❌ |
 | Runs 100% on your device | ✅ always | ⚠️ often "cloud" | ✅ usually |
@@ -66,7 +71,7 @@ Most downloaders are either **free but basic** (no DRM, no bulk, often pulled fr
 
 ## On your phone (iPhone & Android)
 
-Fanripper also runs as an app on your phone. Save posts, videos and DMs from OnlyFans, Fansly, JustForFans, privacy.com.br and Fanfix straight to your iPhone or Android — protected (DRM) videos included, decrypted on the phone itself.
+Fanripper also runs as an app on your phone. Save posts, videos and DMs from OnlyFans, Fansly, JustForFans, privacy.com.br, Fanfix and Patreon straight to your iPhone or Android — protected (DRM) videos included, decrypted on the phone itself.
 
 1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
 2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
@@ -80,7 +85,7 @@ Your phone gets its own device slot, so it never signs out your computer. Downlo
 2. Unzip it somewhere permanent.
 3. Open `chrome://extensions` and turn on **Developer mode** (top-right).
 4. Click **Load unpacked** and select the unzipped folder.
-5. Open OnlyFans, Fansly, JustForFans, privacy.com.br or Fanfix — a **save** button appears on content you can already see.
+5. Open OnlyFans, Fansly, JustForFans, privacy.com.br, Fanfix or Patreon — a **save** button appears on content you can already see.
 
 Works on **Chrome, Brave and Edge**.
 
@@ -98,7 +103,7 @@ Free to install, and **free for everyday backups** — unlimited photos and stan
 | Basic | $5/mo | DRM-protected OnlyFans video, OnlyFans DM media |
 | Pro | $8/mo | Whole-profile bulk backup + crawl filters |
 | Unlimited | $40/6mo | Pro, prepaid |
-| **Max** | $15/mo | **JustForFans, privacy.com.br + Fanfix**, every new site we add · 2 devices |
+| **Max** | $15/mo | **JustForFans, privacy.com.br, Fanfix + Patreon**, every new site we add · 2 devices |
 | **Lifetime** | $99 once | Every Max feature, permanently · 1 device |
 
 Cloud backup + Telegram delivery is a separate **$4/month add-on** that works on any plan, including Free. Paid plans are bought inside the extension: crypto (USDT, BTC, ETH, USDC), card, Apple Pay or Google Pay through Telegram Stars, or a gift card — no KYC, nothing renews by itself.
@@ -110,7 +115,7 @@ See [**docs/FAQ.md**](docs/FAQ.md) for the full list.
 - **Is it safe?** It runs entirely in your browser, never asks for your password, and stores no media on a server. The build is VirusTotal-scanned at 0/64.
 - **Will it get my account banned?** It saves posts and messages you are already viewing, paced like ordinary browsing, on your own device. No tool that talks to a site it does not control can promise you an outcome, so we won't — but human-paced requests are why it behaves like a normal session.
 - **Does it handle big videos?** Yes — multi-gigabyte DRM video that stalls other tools completes here.
-- **Which sites?** OnlyFans and Fansly on any plan; **JustForFans, privacy.com.br and Fanfix** on Max or Lifetime.
+- **Which sites?** OnlyFans and Fansly on any plan; **JustForFans, privacy.com.br, Fanfix and Patreon** on Max or Lifetime.
 - **Does it unlock content I haven't paid for?** No. It only saves what your account can already open. No paywall is bypassed.
 - **Where do downloads go?** Your normal Downloads folder, named by a template you control.
 
@@ -120,7 +125,7 @@ See [**docs/FAQ.md**](docs/FAQ.md) for the full list.
 - 📊 Supported sites — https://fanripper.com/supported-sites
 - ⬇️ Install — https://install.fanripper.com
 - 💬 Telegram (help + updates) — https://t.me/fanripper
-- 📚 Per-site docs — [OnlyFans](https://github.com/SatyamHitman/onlyfans-downloader) · [Fansly](https://github.com/SatyamHitman/fansly-downloader) · [JustForFans](https://github.com/SatyamHitman/justforfans-downloader) · [privacy.com.br](https://github.com/SatyamHitman/privacy-com-br-downloader) · [Fanfix](https://github.com/SatyamHitman/fanfix-downloader)
+- 📚 Per-site docs — [OnlyFans](https://github.com/SatyamHitman/onlyfans-downloader) · [Fansly](https://github.com/SatyamHitman/fansly-downloader) · [JustForFans](https://github.com/SatyamHitman/justforfans-downloader) · [privacy.com.br](https://github.com/SatyamHitman/privacy-com-br-downloader) · [Fanfix](https://github.com/SatyamHitman/fanfix-downloader) · [Patreon](https://fanripper.com/patreon-downloader)
 
 ## License
 
@@ -128,4 +133,4 @@ Proprietary — **licensed, not sold.** See [LICENSE](LICENSE).
 
 ## Disclaimer
 
-Fanripper is a personal backup utility for content you have **lawful, paid access to**. It is **not affiliated with, endorsed by, or connected to** OnlyFans, Fansly, JustForFans, privacy.com.br, Fanfix, or any content platform. No paywall is bypassed. You are responsible for complying with each platform's terms of service and your local law.
+Fanripper is a personal backup utility for content you have **lawful, paid access to**. It is **not affiliated with, endorsed by, or connected to** OnlyFans, Fansly, JustForFans, privacy.com.br, Fanfix, Patreon, or any content platform. No paywall is bypassed. You are responsible for complying with each platform's terms of service and your local law.
