@@ -125,7 +125,7 @@ See [**docs/FAQ.md**](docs/FAQ.md) for the full list.
 - 📊 Supported sites — https://fanripper.com/supported-sites
 - ⬇️ Install — https://install.fanripper.com
 - 💬 Telegram (help + updates) — https://t.me/fanripper
-- 📚 Per-site docs — [OnlyFans](https://github.com/SatyamHitman/onlyfans-downloader) · [Fansly](https://github.com/SatyamHitman/fansly-downloader) · [JustForFans](https://github.com/SatyamHitman/justforfans-downloader) · [privacy.com.br](https://github.com/SatyamHitman/privacy-com-br-downloader) · [Fanfix](https://github.com/SatyamHitman/fanfix-downloader) · [Patreon](https://fanripper.com/patreon-downloader)
+- 📚 Per-site docs — [OnlyFans](https://github.com/SatyamHitman/onlyfans-downloader) · [Fansly](https://github.com/SatyamHitman/fansly-downloader) · [JustForFans](https://github.com/SatyamHitman/justforfans-downloader) · [privacy.com.br](https://github.com/SatyamHitman/privacy-com-br-downloader) · [Fanfix](https://github.com/SatyamHitman/fanfix-downloader) · [Patreon](https://github.com/SatyamHitman/patreon-downloader)
 
 ## License
 
